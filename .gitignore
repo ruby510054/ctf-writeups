@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+venv*/
+.gdb_history
+*.i64
+*.pcap
+*.pcapng
+flag.txt
+*.zip
+*.tar.gz
